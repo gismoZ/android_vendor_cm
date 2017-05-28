@@ -121,10 +121,10 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     Eleven \
     LockClock \
-    CMUpdater \
     CyanogenSetupWizard \
     CMSettingsProvider \
     ExactCalculator \
+    Jelly \
     LiveLockScreenService \
     WeatherProvider \
     DataUsageProvider \
